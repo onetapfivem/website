@@ -1,0 +1,1 @@
+const api = new Api(new ApiConfig(true));
